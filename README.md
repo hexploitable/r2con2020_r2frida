@@ -1,4 +1,4 @@
-# r2con2020_r2frida_workshop_files
+# r2con2020 - r2frida workshop files
 
 ## Pre-requisites
 - [Radare2](https://github.com/radareorg/radare2)
