@@ -1,0 +1,3 @@
+[submodule "cybertruckchallenge19"]
+	path = cybertruckchallenge19
+	url = git@github.com:nowsecure/cybertruckchallenge19.git
