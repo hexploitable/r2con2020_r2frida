@@ -16,5 +16,5 @@
 - Android 
 
 
-You may also wish to use this very hacky SpringBoard hack to prevent your app from being killed for not starting in time when you spawn it:
+You may also wish to use this very hacky SpringBoard hack to prevent your iOS app from being killed for not starting in time when you spawn it:
 https://gist.github.com/5a2318f89fb696da772430bfbb864cd9
