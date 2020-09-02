@@ -15,7 +15,7 @@ git submodule update
 
 ## Challenges
 - [Anti-Jailbreak app (iOS)](ios-challenge-2.ipa)
-- [R2con 2020 crackme (iOS)](r2con2020-crackme.ipa)
+- [R2con 2020 crackme (iOS)](r2con2020-crackme.ipa) [Spoiler: Automated solution](https://gist.github.com/hexploitable/224db54fdb64129258728dc2e135f101)
 - [CyberTruck 2019 crackme (Android)](https://github.com/nowsecure/cybertruckchallenge19/blob/master/apk/cybertruck19.apk)
 
 ## Devices (preferably rooted)
