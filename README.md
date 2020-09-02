@@ -6,8 +6,7 @@
 - [R2frida plugin](https://github.com/nowsecure/r2frida)
 
 ## Challenges
-- OWASP CrackMe 2 (iOS)
-- Anti-Jailbreak app (iOS)
+- [Anti-Jailbreak app (iOS)] (ios-challenge-2.ipa)
 - [R2con 2020 crackme (iOS)](r2con2020-crackme.ipa)
 - [CyberTruck 2019 crackme (Android)](https://github.com/nowsecure/cybertruckchallenge19/blob/master/apk/cybertruck19.apk)
 
