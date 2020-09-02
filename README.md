@@ -1,5 +1,13 @@
 # r2con2020 - r2frida workshop files
 
+## Material
+
+```sh
+git clone https://github.com/hexploitable/r2con2020_r2frida.git
+git submodule init
+git submodule update
+```
+
 ## Pre-requisites
 - [Radare2](https://github.com/radareorg/radare2)
 - [Frida](https://frida.re)
@@ -12,7 +20,7 @@
 
 ## Devices (preferably rooted)
 - iPhone
-- Android 
+- Android
 
 
 You may also wish to use this very hacky SpringBoard hack to prevent your iOS app from being killed for not starting in time when you spawn it:
